@@ -17,3 +17,8 @@ class ViewController: UIViewController {
 
 }
 
+// hugging priority
+// compresion resistance
+// grater than
+// less than
+
